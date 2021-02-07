@@ -1,0 +1,14 @@
+grf {
+    grfid: "EH\01\01";
+    name: string(STR_GRF_NAME);
+    desc: string(STR_GRF_DESCRIPTION);
+    url: string(STR_GRF_URL);
+    version: 0;
+    min_compatible_version: 0;
+}
+
+/* From: https://newgrf-specs.tt-wiki.net/wiki/VehicleIDs
+ * 84 -  88 are maglev engines
+ * 89 - 115 are maglev wagons
+ */
+disable_item(FEAT_TRAINS, 84, 115);

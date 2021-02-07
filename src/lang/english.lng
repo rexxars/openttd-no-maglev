@@ -1,0 +1,4 @@
+##grflangid 0x01
+STR_GRF_NAME        :No Maglev
+STR_GRF_DESCRIPTION :Description: {SILVER}Disables maglev trains and tracks{}{BLACK}Author: {SILVER}Espen Hovlandsdal{}{BLACK}License: {SILVER}MIT{}{BLACK}Website: {SILVER}https://github.com/rexxars/openttd-no-maglev{}
+STR_GRF_URL         :https://github.com/rexxars/openttd-no-maglev
